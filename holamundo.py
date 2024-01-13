@@ -1,2 +1,3 @@
-mensaje = "Hola mundo"
-print(mensaje)
+name = input("Ingresa tu nombre por favor: ")
+
+print("!Hola " + name + "¡")
